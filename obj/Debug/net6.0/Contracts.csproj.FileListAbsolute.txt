@@ -1,0 +1,15 @@
+/home/mariaviana/Contracts/bin/Debug/net6.0/Contracts
+/home/mariaviana/Contracts/bin/Debug/net6.0/Contracts.deps.json
+/home/mariaviana/Contracts/bin/Debug/net6.0/Contracts.runtimeconfig.json
+/home/mariaviana/Contracts/bin/Debug/net6.0/Contracts.dll
+/home/mariaviana/Contracts/bin/Debug/net6.0/Contracts.pdb
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.csproj.AssemblyReference.cache
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.AssemblyInfoInputs.cache
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.AssemblyInfo.cs
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.csproj.CoreCompileInputs.cache
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.dll
+/home/mariaviana/Contracts/obj/Debug/net6.0/refint/Contracts.dll
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.pdb
+/home/mariaviana/Contracts/obj/Debug/net6.0/Contracts.genruntimeconfig.cache
+/home/mariaviana/Contracts/obj/Debug/net6.0/ref/Contracts.dll
