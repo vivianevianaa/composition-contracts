@@ -14,14 +14,12 @@ class Program
         Console.Write("Name: ");
         string name = Console.ReadLine();
 
-
         Console.Write("Level (Junior/MidLevel/Senior): ");
         WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
 
         Console.Write("Base salary: ");
         double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        //instanciando department e worker
         Department dept = new Department(deptName);
         Worker worker = new Worker(name, level, baseSalary, dept);
 
